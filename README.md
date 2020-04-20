@@ -1,7 +1,7 @@
 # tinycool.github.io
 V2.3.1------The latest version<br>
 1.使用gihub仓库 购买的短链接重新启用<br>
-1.1目前访问地址为https://www.tinycool.top跳转至github仓库链接tinycool-awesome.github.io，国内访问可能会出现延迟或无法访问<br>
+1.1目前访问地址为https://www.tinycool.top 跳转至github仓库链接https://tinycool-awesome.github.io ，国内访问可能会出现延迟或无法访问<br>
 V2.3<br>
 MainThing-加入/舍弃功能<br>
 *学生党穷 等以后再购买服务器进行备案*<br>
